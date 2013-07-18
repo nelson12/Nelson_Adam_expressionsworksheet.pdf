@@ -1,0 +1,7 @@
+//adam nelson 071813 expressions worksheet
+//calculate dogs age in dog years
+dogYears=7; //declaring constant of dog years 
+var humanYears=4; //declaring variable of dog age in human years
+var age=dogYears*humanYears; //multiply age in human years by 7 for age in dog years
+console.log(age);//print out result in dog years
+

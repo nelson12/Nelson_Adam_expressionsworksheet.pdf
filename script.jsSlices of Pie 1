@@ -1,0 +1,14 @@
+//adam nelson 071813 expressions worksheet
+//calculate how many slices of pizza each partygoer will eat
+var slicesPerPizza = 8;
+var pizzasOrdered = 7;
+var partygoers = 15;
+//multiply slices of pizza by number of pizzas ordered to get total slices;
+var totalSlices = slicesPerPizza * pizzasOrdered
+console.log(totalSlices)
+//divide the total slices by the number of partygoers to get the number of slices per partygoer:
+slicesPerPartygoer = totalSlices / partygoers;
+//print slices of pizza per partygoer
+console.log(slicesPerPartygoer)
+
+
